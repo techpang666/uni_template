@@ -24,7 +24,7 @@
 ## **一些链接**
 - [项目地址](https://github.com/techpang666/uni_template)
 - [同步码云仓](https://gitee.com/techpang/uni_template)
-- [内置promise请求库的v1.0版本]()
+- [内置promise请求库的v1.0版本](#)
 - [uViewUI下载地址](https://gitee.com/xuqu/uView)
 
 ------
