@@ -13,18 +13,20 @@
 ## **一些内置能力**
 - [X] 基于promise封装的请求库
 - [ ] 全局css初始化
-- [ ] 更多能力敬请期待
+- [ ] 时间格式化工具
+- [ ] 更多能力敬请期待🚀
 
 ------
 ## **一些说明**
 - 项目配置的uViewUI可能更新不及时 需要自行下载覆盖
 - 请求库会继续优化
+- 欢迎提issues🔫
 
 ------
 ## **一些链接**
 - [项目地址](https://github.com/techpang666/uni_template)
 - [同步码云仓](https://gitee.com/techpang/uni_template)
-- [内置promise请求库的v1.0版本](#)
+- [内置promise请求库的v1.0版本](https://techpang.top/)
 - [uViewUI下载地址](https://gitee.com/xuqu/uView)
 
 ------
