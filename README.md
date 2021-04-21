@@ -27,7 +27,9 @@
 - [项目地址](https://github.com/techpang666/uni_template)
 - [同步码云仓](https://gitee.com/techpang/uni_template)
 - [内置promise请求库的v1.0版本](https://techpang.top/)
+- [基于promise封装的请求库](https://github.com/techpang666/uni_template/blob/master/utils/request.js)
 - [uViewUI下载地址](https://gitee.com/xuqu/uView)
+- [客官赏一个呗💰](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/other_libs/wechat_zhifubao_code.md)
 
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')
