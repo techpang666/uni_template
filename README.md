@@ -13,6 +13,7 @@
 ## **一些内置能力**
 - [X] 基于promise封装的请求库
 - [ ] 全局css初始化
+- [ ] 防抖节流处理
 - [ ] 时间格式化工具
 - [ ] 更多能力敬请期待🚀
 
@@ -26,8 +27,8 @@
 ## **一些链接**
 - [项目地址](https://github.com/techpang666/uni_template)
 - [同步码云仓](https://gitee.com/techpang/uni_template)
-- [内置promise请求库的v1.0版本](https://techpang.top/)
-- [基于promise封装的请求库](https://github.com/techpang666/uni_template/blob/master/utils/request.js)
+- [内置promise请求库的v1.0版本](https://github.com/techpang666/uni_template/tree/b34d0f6876cc54d58710eaf6f50da75e53ec9f58)
+- [基于promise封装的请求库下载地址](https://github.com/techpang666/uni_template/blob/master/utils/request.js)
 - [uViewUI下载地址](https://gitee.com/xuqu/uView)
 - [客官赏一个呗💰](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/other_libs/wechat_zhifubao_code.md)
 
